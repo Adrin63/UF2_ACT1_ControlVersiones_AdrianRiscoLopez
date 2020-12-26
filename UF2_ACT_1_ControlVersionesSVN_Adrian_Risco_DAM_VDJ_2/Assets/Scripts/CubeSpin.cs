@@ -18,7 +18,6 @@ public class CubeSpin : MonoBehaviour
     void Start()
     {
         angle = 0;
-
         rotating = false;
     }
 
